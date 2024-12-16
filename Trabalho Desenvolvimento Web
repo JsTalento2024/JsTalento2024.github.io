@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Seja bem vindo(a) a minha página!</title>
+   <title>Seja bem vindo(a) a minha página!</title>
 </head>
 <body>
 
-<h1>Seja bem vindo(a) a minha página!</h1>
-<p>Aqui, você aprenderá muito sobre programação e desenvolvimento web.</p>
+   <h1>Seja bem vindo(a) a minha página!</h1>
+   <p>Aqui, você aprenderá muito sobre programação e desenvolvimento web.</p>
 
 </body>
 </html>
